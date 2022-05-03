@@ -189,7 +189,7 @@ number of inodes proportional to the storage space. The default *inode-ratio* is
 *16k* (described in
 [mke2fs.conf](https://man7.org/linux/man-pages/man5/mke2fs.conf.5.html) file).
 
-Using our 5G disk as before and the inode-ration, we can calculate the maximum
+Using our 5G disk as before and the inode-ratio, we can calculate the maximum
 number of inodes this filesystem can store:
 
 ```
